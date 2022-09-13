@@ -1,0 +1,12 @@
+.group-content h2 {
+    font-size: 2.4rem;
+}
+
+.group-content img {
+    float: left;
+    margin-right: 1.6rem;
+}
+
+.group-content p {
+    font-size: 1.6rem;
+}

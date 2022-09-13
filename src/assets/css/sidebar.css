@@ -1,0 +1,43 @@
+.sidebar {
+    position: fixed;
+    width: 150px;
+    height: 100vh;
+    background-color: #191718;
+    color: #5c5c5c;
+}
+
+.icon-mobile {
+    display: none;
+    color: #fff;
+    background-color: #5c5c5c;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.sidebar ul {
+    text-transform: capitalize;
+    font-size: 1.6rem;
+}
+
+.sidebar li {
+    display: flex;
+    align-items: center;
+    height: 44px;
+    width: 100%;
+    border-bottom: 1px solid #5c5c5c;
+    padding-left: 1.6rem;
+}
+
+.sidebar li:hover {
+    color: #fff;
+}
+
+.sidebar li.active {
+    color: #fff;
+    background-color: #aaa;
+}
+
+.main {
+    
+}

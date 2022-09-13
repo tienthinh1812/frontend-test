@@ -1,0 +1,27 @@
+.main {
+    margin-left: 150px;
+    padding-top: 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.group-1 {
+    padding: 38px 130px;
+    background-color: #efefef;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.group-1 h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1.8rem;
+}
+
+.group-1 p {
+    font-size: 1.6rem;
+}
